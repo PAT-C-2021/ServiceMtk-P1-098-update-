@@ -1,0 +1,6 @@
+D:\Smester 5\PAT\ServiceMtk-P1-098\ServiceMtk-P1-098\bin\Debug\ServiceMtk-P1-098.dll.config
+D:\Smester 5\PAT\ServiceMtk-P1-098\ServiceMtk-P1-098\bin\Debug\ServiceMtk-P1-098.dll
+D:\Smester 5\PAT\ServiceMtk-P1-098\ServiceMtk-P1-098\bin\Debug\ServiceMtk-P1-098.pdb
+D:\Smester 5\PAT\ServiceMtk-P1-098\ServiceMtk-P1-098\obj\Debug\ServiceMtk-P1-098.csproj.CoreCompileInputs.cache
+D:\Smester 5\PAT\ServiceMtk-P1-098\ServiceMtk-P1-098\obj\Debug\ServiceMtk-P1-098.dll
+D:\Smester 5\PAT\ServiceMtk-P1-098\ServiceMtk-P1-098\obj\Debug\ServiceMtk-P1-098.pdb
